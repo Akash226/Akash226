@@ -1,13 +1,13 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 <h1 align="center">I'm Akash</h1>
 
-### I have technical experience and interest in -
+### ⚙ I have technical experience and interest in -
 * Computer vision 
 * Natural Language Processing 
 * Machine Learning
 
 
-### Languages and Tools:
+### 🧰 Languages and Tools:
 * Python 
 * Flask
 * TensorFlow 
@@ -16,12 +16,12 @@
 * MongoDB
 * MySQL , SQLite
 
-### My Hobbies and interests -
+### 🎨 My Hobbies and interests -
 * Sketching , Charcoal art
 * Weightlifting
 * Travelling
 
-#### You can also find me on- 
+#### 🔎 You can also find me on- 
 
 [<img align="left" alt="Akash226 | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="Akash226 | Instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][Instagram]
